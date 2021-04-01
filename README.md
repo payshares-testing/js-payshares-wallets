@@ -1,4 +1,4 @@
-# js-stellar-wallets
+# js-payshares-wallets
 
 A library to make it easier to write your own Stellar wallets.
 
